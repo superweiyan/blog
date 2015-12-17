@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: 林伟彦的足迹
+subtitle: 风过无痕
+description: 程序猿的一生
+author: weiyan
+#language setting
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: minos
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
